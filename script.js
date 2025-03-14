@@ -1,2 +1,2 @@
-console.log("oi console")
-alert.log("trojan velho")
+console.log("oi console");
+alert("trojan velho");
